@@ -31,7 +31,7 @@
 ##    console.log("wrong choice");
 ## }
 
-## 2.2.	Use the switch case and create an application with the following roles.
+## 2.	Use the switch case and create an application with the following roles.
 ## admin => gets full access
 ## subAdmin => gets access to create and delete courses
 ## testPrep => gets access to create and delete tests
